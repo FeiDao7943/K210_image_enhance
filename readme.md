@@ -9,3 +9,5 @@ run:
 `python image_enhance_2.py`
 
 `python rename.py`
+
+and the result will be generated in folder `enhance2`
